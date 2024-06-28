@@ -2,4 +2,4 @@ ubuntu/squid:latest
 nginx:latest
 ollama/ollama:latest
 #支持指定架构
---platform=linux/amd64
+#--platform=linux/amd64
