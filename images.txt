@@ -1,6 +1,4 @@
-cr2.fit2cloud.com/1panel/maxkb
-ubuntu/squid:latest
-nginx:latest
 ollama/ollama:latest
+postgis/postgis:13-master
 #支持指定架构
 #--platform=linux/amd64
