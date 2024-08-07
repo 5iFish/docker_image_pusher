@@ -1,8 +1,5 @@
 ollama/ollama:latest
-zookeeper:3.6.3
-zookeeper:3.7.2
---platform=linux/aarch64 zookeeper:3.6.3
---platform=linux/aarch64 zookeeper:3.7.2
+ubuntu/squid
 postgis/postgis:13-master
 #支持指定架构
 #--platform=linux/amd64
