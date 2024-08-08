@@ -1,5 +1,6 @@
 ollama/ollama:latest
 ubuntu/squid
 postgis/postgis:13-master
+google/cadvisor
 #支持指定架构
 #--platform=linux/amd64
