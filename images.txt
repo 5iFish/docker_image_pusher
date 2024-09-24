@@ -1,3 +1,4 @@
 gcr.io/cadvisor/cadvisor:latest
+zuoguochen/kylinos:v10sp1
 #支持指定架构
-#--platform=linux/amd64
+--platform=linux/arm64
