@@ -1,3 +1,2 @@
-kubesphere/kubectl:latest
 #支持指定架构
---platform=linux/arm64 elasticsearch:7.17.18
+--platform=linux/arm64 nginx:alpine
