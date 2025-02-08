@@ -1,4 +1,5 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:alpine
 #--platform=linux/arm64 kong:3.6.1
---platform=linux/arm64 redis:6.2
+#--platform=linux/arm64 redis:6.2
+apache/ranger:2.5.0
