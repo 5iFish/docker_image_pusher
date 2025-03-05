@@ -2,4 +2,6 @@
 #--platform=linux/arm64 nginx:alpine
 #--platform=linux/arm64 kong:3.6.1
 #--platform=linux/arm64 redis:6.2
+--platform=linux/arm64 node:22-alpine3.20
+node:22-alpine3.20
 apache/ranger:2.5.0
