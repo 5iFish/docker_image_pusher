@@ -7,4 +7,5 @@
 #ghcr.io/open-webui/open-webui:cuda
 #node:22-alpine3.20
 #apache/ranger:2.5.0
-1panel/maxkb:latest
+#1panel/maxkb:latest
+ollama/ollama:latest
