@@ -3,10 +3,10 @@
 #--platform=linux/arm64 kong:3.6.1
 #--platform=linux/arm64 redis:6.2.14
 #--platform=linux/arm64 node:22-alpine3.20
-pgvector/pgvector:pg15
+#pgvector/pgvector:pg15
 #ghcr.io/open-webui/open-webui:main
 #ghcr.io/open-webui/open-webui:cuda
 #node:22-alpine3.20
 #apache/ranger:2.5.0
 #1panel/maxkb:latest
-#ollama/ollama:latest
+ollama/ollama:latest
