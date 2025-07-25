@@ -1,6 +1,7 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:alpine
---platform=linux/arm64 python:3.11
+#--platform=linux/arm64 python:3.11
+--platform=linux/arm64 pgvector/pgvector:0.7.4-pg16
 #--platform=linux/arm64 kong:3.6.1
 #--platform=linux/arm64 redis:6.2.14
 #--platform=linux/arm64 node:22-alpine3.20
