@@ -28,3 +28,4 @@
 #apache/ranger:2.5.0
 #1panel/maxkb:latest
 #ollama/ollama:latest
+centos:8.2
