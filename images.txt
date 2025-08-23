@@ -5,7 +5,7 @@
 #--platform=linux/arm64 kong:3.6.1
 #--platform=linux/arm64 redis:6.2.14
 #--platform=linux/arm64 node:22-alpine3.20
---platform=linux/arm64 openjdk:8
+#--platform=linux/arm64 openjdk:8
 #pgvector/pgvector:pg15
 #mysql:8.4.5
 #bitnami/redis:8.0
@@ -28,4 +28,5 @@
 #apache/ranger:2.5.0
 #1panel/maxkb:latest
 #ollama/ollama:latest
-centos:8.2.2004
+#centos:8.2.2004
+ghcr.io/snailyp/gemini-balance:latest
