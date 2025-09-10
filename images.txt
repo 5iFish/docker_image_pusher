@@ -7,9 +7,10 @@
 #--platform=linux/arm64 node:22-alpine3.20
 #--platform=linux/arm64 openjdk:8
 nginx:latest
+pgvector/pgvector:0.7.4-pg12
 #approachingai/ktransformers:v0.3.2-AVX2
 #approachingai/ktransformers:v0.3.2-AVX512
-pytorch/pytorch:2.8.0-cuda12.6-cudnn9-devel
+#pytorch/pytorch:2.8.0-cuda12.6-cudnn9-devel
 #pgvector/pgvector:0.7.4-pg16
 #mysql:8.4.5
 #bitnami/redis:8.0
