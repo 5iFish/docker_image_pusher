@@ -6,8 +6,9 @@
 #--platform=linux/arm64 redis:6.2.14
 #--platform=linux/arm64 node:22-alpine3.20
 #--platform=linux/arm64 openjdk:8
+--platform=linux/arm64 openresty:latest
 nginx:latest
-pgvector/pgvector:0.7.4-pg12
+#pgvector/pgvector:0.7.4-pg12
 #approachingai/ktransformers:v0.3.2-AVX2
 #approachingai/ktransformers:v0.3.2-AVX512
 #pytorch/pytorch:2.8.0-cuda12.6-cudnn9-devel
