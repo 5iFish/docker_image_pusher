@@ -7,8 +7,10 @@
 #--platform=linux/arm64 node:22-alpine3.20
 #--platform=linux/arm64 openjdk:8
 #--platform=linux/arm64 openresty:latest
---platform=linux/arm64 neo4j:4.4.7-community
+#--platform=linux/arm64 neo4j:4.4.7-community
 nginx:latest
+paradedb/paradedb:0.18.4-pg15
+--platform=linux/arm64 paradedb/paradedb:0.18.4-pg15
 #pgvector/pgvector:0.7.4-pg12
 #approachingai/ktransformers:v0.3.2-AVX2
 #approachingai/ktransformers:v0.3.2-AVX512
