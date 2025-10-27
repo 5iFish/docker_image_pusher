@@ -10,6 +10,7 @@
 #--platform=linux/arm64 neo4j:4.4.7-community
 #nginx:latest
 #paradedb/paradedb:0.18.4-pg15
+dockurr/samba
 #--platform=linux/arm64 paradedb/paradedb:0.18.4-pg15
 
 #wechatopenai/weknora-app:latest
@@ -45,6 +46,6 @@
 #node:22-alpine3.20
 #apache/ranger:2.5.0
 #1panel/maxkb:latest
-ollama/ollama:latest
+#ollama/ollama:latest
 #centos:8.2.2004
 #ghcr.io/snailyp/gemini-balance:latest
