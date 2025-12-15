@@ -1,5 +1,5 @@
 #支持指定架构
-#--platform=linux/arm64 nginx:latest
+--platform=linux/arm64 nginx:latest
 #--platform=linux/arm64 python:3.11
 #--platform=linux/arm64 pgvector/pgvector:0.7.4-pg16
 #--platform=linux/arm64 kong:3.6.1
