@@ -39,7 +39,7 @@
 #opencoze/opencoze:latest
 #ghcr.io/huggingface/text-embeddings-inference:latest
 #ghcr.io/huggingface/text-embeddings-inference:cpu-latest
-nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
+#nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 #zhayujie/chatgpt-on-wechat
 #mintplexlabs/anythingllm:latest
 #ghcr.io/open-webui/open-webui:main
@@ -50,4 +50,5 @@ nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 #ollama/ollama:latest
 #centos:8.2.2004
 #ghcr.io/snailyp/gemini-balance:latest
+ghcr.io/remsky/kokoro-fastapi-cpu:latest
 
