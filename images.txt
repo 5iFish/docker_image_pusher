@@ -50,5 +50,5 @@
 #ollama/ollama:latest
 #centos:8.2.2004
 #ghcr.io/snailyp/gemini-balance:latest
-ghcr.io/remsky/kokoro-fastapi-cpu:latest
+#ghcr.io/remsky/kokoro-fastapi-cpu:latest
 
