@@ -12,8 +12,8 @@
 #python:3.11-slim
 #--platform=linux/arm64 python:3.11
 #--platform=linux/arm64 python:3.11-slim
-python:3.11-bookworm
---platform=linux/arm64 python:3.11-bookworm
+python:3.11-slim-bookworm
+--platform=linux/arm64 python:3.11-slim-bookworm
 #nginx:latest
 #paradedb/paradedb:0.18.4-pg15
 #dockurr/samba
