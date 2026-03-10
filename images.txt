@@ -16,9 +16,10 @@
 #--platform=linux/arm64 python:3.11-slim-bookworm
 #nvidia/cuda:12.6.3-cudnn-devel-ubuntu22.04
 #nginx:latest
-node:22-alpine
+#node:22-alpine
 #paradedb/paradedb:0.18.4-pg15
 #dockurr/samba
+docker.n8n.io/n8nio/n8n
 #--platform=linux/arm64 paradedb/paradedb:0.18.4-pg15
 
 #wechatopenai/weknora-app:latest
