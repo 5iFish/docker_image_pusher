@@ -19,7 +19,8 @@
 #node:22-alpine
 #paradedb/paradedb:0.18.4-pg15
 #dockurr/samba
-docker.n8n.io/n8nio/n8n
+#docker.n8n.io/n8nio/n8n
+xpzouying/xiaohongshu-mcp
 #--platform=linux/arm64 paradedb/paradedb:0.18.4-pg15
 
 #wechatopenai/weknora-app:latest
