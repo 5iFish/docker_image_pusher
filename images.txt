@@ -22,6 +22,7 @@ eceasy/cli-proxy-api:latest
 #dockurr/samba
 docker.n8n.io/n8nio/n8n:stable
 xpzouying/xiaohongshu-mcp
+ghcr.io/willxup/cpa-usage-keeper:latest
 #--platform=linux/arm64 paradedb/paradedb:0.18.4-pg15
 
 #wechatopenai/weknora-app:latest
