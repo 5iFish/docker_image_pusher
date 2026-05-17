@@ -64,10 +64,10 @@ ghcr.io/willxup/cpa-usage-keeper:latest
 #ghcr.io/snailyp/gemini-balance:latest
 #ghcr.io/remsky/kokoro-fastapi-cpu:latest
 
-docker.io/langfuse/langfuse-worker:3
-docker.io/langfuse/langfuse:3
-docker.io/clickhouse/clickhouse-server
-cgr.dev/chainguard/minio
-docker.io/redis:7
-docker.io/postgres:15
+#docker.io/langfuse/langfuse-worker:3
+#docker.io/langfuse/langfuse:3
+#docker.io/clickhouse/clickhouse-server
+#cgr.dev/chainguard/minio
+#docker.io/redis:7
+#docker.io/postgres:15
 
