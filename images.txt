@@ -1,5 +1,6 @@
 #支持指定架构
-eceasy/cli-proxy-api:latest
+calciumion/new-api:latest
+#eceasy/cli-proxy-api:latest
 #--platform=linux/arm64 nginx:latest
 #--platform=linux/arm64 python:3.11
 #--platform=linux/arm64 pgvector/pgvector:0.7.4-pg16
@@ -22,7 +23,7 @@ eceasy/cli-proxy-api:latest
 #dockurr/samba
 #docker.n8n.io/n8nio/n8n:stable
 #xpzouying/xiaohongshu-mcp
-ghcr.io/willxup/cpa-usage-keeper:latest
+#ghcr.io/willxup/cpa-usage-keeper:latest
 #--platform=linux/arm64 paradedb/paradedb:0.18.4-pg15
 
 #wechatopenai/weknora-app:latest
