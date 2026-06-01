@@ -1,10 +1,11 @@
 #支持指定架构
-justsong/one-api
+#justsong/one-api
 #redis:8-alpine
 #postgres:18-alpine
 #weishaw/sub2api:latest
 #calciumion/new-api:latest
-#eceasy/cli-proxy-api:latest
+eceasy/cli-proxy-api:latest
+ghcr.io/willxup/cpa-usage-keeper:latest
 #--platform=linux/arm64 nginx:latest
 #--platform=linux/arm64 python:3.11
 #--platform=linux/arm64 pgvector/pgvector:0.7.4-pg16
@@ -27,7 +28,6 @@ justsong/one-api
 #dockurr/samba
 #docker.n8n.io/n8nio/n8n:stable
 #xpzouying/xiaohongshu-mcp
-#ghcr.io/willxup/cpa-usage-keeper:latest
 #--platform=linux/arm64 paradedb/paradedb:0.18.4-pg15
 
 #wechatopenai/weknora-app:latest
