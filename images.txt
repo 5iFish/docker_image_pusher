@@ -1,7 +1,8 @@
 #支持指定架构
-redis:8-alpine
-postgres:18-alpine
-weishaw/sub2api:latest
+justsong/one-api
+#redis:8-alpine
+#postgres:18-alpine
+#weishaw/sub2api:latest
 #calciumion/new-api:latest
 #eceasy/cli-proxy-api:latest
 #--platform=linux/arm64 nginx:latest
