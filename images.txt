@@ -3,7 +3,7 @@
 #redis:8-alpine
 #postgres:18-alpine
 #weishaw/sub2api:latest
-#calciumion/new-api:latest
+calciumion/new-api:latest
 eceasy/cli-proxy-api:latest
 ghcr.io/willxup/cpa-usage-keeper:latest
 #--platform=linux/arm64 nginx:latest
