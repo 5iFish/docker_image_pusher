@@ -3,11 +3,12 @@
 #redis:8-alpine
 #postgres:18-alpine
 #weishaw/sub2api:latest
+seakee/cpa-manager-plus:latest
 eceasy/cli-proxy-api:latest
-ghcr.io/willxup/cpa-usage-keeper:latest
-milvusdb/milvus:v2.6.18
-testcontainers/ryuk:0.8.1
-calciumion/new-api:latest
+#ghcr.io/willxup/cpa-usage-keeper:latest
+#milvusdb/milvus:v2.6.18
+#testcontainers/ryuk:0.8.1
+#calciumion/new-api:latest
 #--platform=linux/arm64 nginx:latest
 #--platform=linux/arm64 python:3.11
 #--platform=linux/arm64 pgvector/pgvector:0.7.4-pg16
