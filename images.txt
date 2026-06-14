@@ -3,6 +3,7 @@
 #redis:8-alpine
 #postgres:18-alpine
 #weishaw/sub2api:latest
+milvusdb/milvus:v2.6.18
 testcontainers/ryuk:0.8.1
 calciumion/new-api:latest
 eceasy/cli-proxy-api:latest
