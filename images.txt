@@ -3,7 +3,7 @@
 #redis:8-alpine
 #postgres:18-alpine
 #weishaw/sub2api:latest
-docker:28.3.2
+moby/buildkit:buildx-stable-1
 seakee/cpa-manager-plus:latest
 eceasy/cli-proxy-api:latest
 #ghcr.io/willxup/cpa-usage-keeper:latest
