@@ -4,9 +4,9 @@
 #postgres:18-alpine
 #weishaw/sub2api:latest
 #moby/buildkit:buildx-stable-1
-seakee/cpa-manager-plus:latest
-eceasy/cli-proxy-api:latest
-ghcr.io/willxup/cpa-usage-keeper:latest
+#seakee/cpa-manager-plus:latest
+#eceasy/cli-proxy-api:latest
+#ghcr.io/willxup/cpa-usage-keeper:latest
 #milvusdb/milvus:v2.6.18
 #testcontainers/ryuk:0.8.1
 #calciumion/new-api:latest
@@ -27,7 +27,8 @@ ghcr.io/willxup/cpa-usage-keeper:latest
 #--platform=linux/arm64 python:3.11-slim-bookworm
 #nvidia/cuda:12.6.3-cudnn-devel-ubuntu22.04
 #nginx:latest
-#node:22-alpine
+node:20
+node:20-slim
 #paradedb/paradedb:0.18.4-pg15
 #dockurr/samba
 #docker.n8n.io/n8nio/n8n:stable
