@@ -26,7 +26,8 @@ ghcr.io/willxup/cpa-usage-keeper:latest
 #python:3.11-slim-bookworm
 #--platform=linux/arm64 python:3.11-slim-bookworm
 #nvidia/cuda:12.6.3-cudnn-devel-ubuntu22.04
-#nginx:latest
+nginx:latest
+--platform=linux/arm64 nginx:latest
 #node:20
 #node:20-slim
 #paradedb/paradedb:0.18.4-pg15
